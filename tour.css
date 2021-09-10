@@ -21,3 +21,53 @@ h2 {
     font-size: 4vh;
 }
 
+.fa {
+    padding: 20px;
+    font-size: 60px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+
+  a:hover{
+    text-transform: uppercase;
+    color:#f70606;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+
+  footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+  }
+
+  a {
+    margin: 5px;
+  }
+
+  h3 {
+    margin: 10px;
+    font-family: 'Permanent Marker', cursive;
+    color: white;
+  }
+
