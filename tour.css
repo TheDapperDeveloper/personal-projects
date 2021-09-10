@@ -1,0 +1,23 @@
+html {
+    background-color:black;
+}
+.pic {
+    display: flex;
+    justify-content: center;
+    color: #f70606; 
+}
+
+.logo {
+    position: absolute;
+        top: 8px;
+        left: 16px;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    color: #f70606;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 4vh;
+}
+
