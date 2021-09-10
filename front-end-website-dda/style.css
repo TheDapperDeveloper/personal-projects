@@ -3,11 +3,20 @@ html {
 }
 .fa {
     padding: 20px;
-    font-size: 30px;
+    font-size: 60px;
     width: 30px;
     text-align: center;
     text-decoration: none;
     border-radius: 50%;
+  }
+
+  .headLogo {
+    display: flex;
+    justify-content: center;
+  }
+
+  .logo {
+    margin: 30px;
   }
 
   ul {
@@ -17,7 +26,20 @@ html {
     font-family: 'Permanent Marker', cursive;
     font-size: 4vh;
     color: white;
+    margin: 2px;
   }
+
+  a {
+    color: white;
+    text-decoration: none;
+  }
+
+  a:hover{
+    text-transform: uppercase;
+    color:#48745F;
+  }
+
+
 
   li {
       list-style: none;
