@@ -1,5 +1,5 @@
 html {
-    background-color:#74485d
+    background-color:black;
 }
 .fa {
     padding: 20px;
@@ -36,7 +36,7 @@ html {
 
   a:hover{
     text-transform: uppercase;
-    color:#48745F;
+    color:#f70606;
   }
 
 
