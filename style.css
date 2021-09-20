@@ -1,5 +1,5 @@
 html {
-    background-color:black;
+    background-color:white;
 }
 .fa {
     padding: 20px;
@@ -30,13 +30,13 @@ html {
   }
 
   a {
-    color: white;
+    color: #f70606;
     text-decoration: none;
   }
 
   a:hover{
     text-transform: uppercase;
-    color:#f70606;
+    color: black;
   }
 
 
@@ -95,7 +95,7 @@ html {
   h3 {
     margin: 10px;
     font-family: 'Permanent Marker', cursive;
-    color: white;
+    color: #f70606;
   }
 
   .home-text {

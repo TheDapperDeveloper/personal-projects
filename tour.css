@@ -1,5 +1,5 @@
 html {
-    background-color:black;
+    background-color:white;
 }
 
 .headLogo {
@@ -8,7 +8,7 @@ html {
   }
 
   .logo {
-    margin: 100px;
+    margin: 30px;
   }
 
   ul {
@@ -22,13 +22,13 @@ html {
   }
 
   a {
-    color: white;
+    color: #f70606;
     text-decoration: none;
   }
 
   a:hover{
     text-transform: uppercase;
-    color:#f70606;
+    color:black;
   }
 
 
@@ -44,11 +44,6 @@ html {
     color: #f70606; 
 }
 
-.logo {
-    position: absolute;
-        top: 8px;
-        left: 16px;
-}
 
 .tourVideo {
     display: flex;
@@ -70,7 +65,7 @@ html {
 
   a:hover{
     text-transform: uppercase;
-    color:#f70606;
+    color:black;
   }
   .fa-facebook {
     background: #3B5998;
@@ -106,6 +101,6 @@ html {
   h3 {
     margin: 10px;
     font-family: 'Permanent Marker', cursive;
-    color: white;
+    color: #f70606;
   }
 
